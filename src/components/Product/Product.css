@@ -9,6 +9,7 @@
 .product-name{
     color: blue;
     font-weight: 400;
+    text-decoration: none;
 }
 .order-button{
     background-color: goldenrod;
